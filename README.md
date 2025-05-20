@@ -5,7 +5,7 @@
 This repository contains the exploratory research paper titled **"Chatbots and Their Impact on Pakistani University Education"** by Abdullah Naeem. The study examines how chatbots, including ChatGPT, are being integrated into Pakistani university settings, their benefits, challenges, and potential future implications.
 
 ## Project Structure
-- `chatbots_and_their_impact_in_pakistani_university_education.pdf`: The full research paper.
+- `chatbots_and_their_impact_in_pakistani_university_education.docs`: The full research paper.
 - `README.md`: This file, providing an overview of the project and instructions.
 
 ## Research Objectives
